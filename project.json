@@ -1,0 +1,29 @@
+{
+  "overview": "Premium luxury real estate website for ADVANCE PROPERTY CONSTRUCTION — a Gwalior-based company offering property buying/selling, commercial deals, and construction services with 8+ years of experience.",
+  "features": [
+    "Cinematic dark/gold/red luxury design theme",
+    "9-page website: Home, About, Services, Properties, Commercial, Construction, Gallery, Testimonials, Contact",
+    "Property listings with advanced filters and wishlist (localStorage)",
+    "EMI calculator modal with sliders",
+    "Custom gold cursor with trail animation",
+    "Sticky WhatsApp button with pulse animation",
+    "Sound effects with mute toggle",
+    "Auto-sliding testimonials carousel",
+    "Gallery lightbox with navigation",
+    "Scroll-triggered animations and parallax effects",
+    "Mobile responsive design"
+  ],
+  "category": "showcase",
+  "tags": [
+    "real-estate",
+    "luxury",
+    "construction",
+    "property-listings",
+    "india",
+    "gwalior",
+    "dark-theme",
+    "cinematic",
+    "animations"
+  ],
+  "last_updated": "2026-04-13T12:16:00.514Z"
+}
